@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @RthdxDev, My name is Matvey
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Golang
 - 📫 You can write me: mattarasov704@gmail.com
 
 <!---
