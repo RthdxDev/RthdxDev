@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RthdxDev, My name is Matvey
+- 👋 Hi, I’m @RthdxDev, My name is Matvei
 - 📫 You can write me: mattarasov704@gmail.com
 
 <!---
